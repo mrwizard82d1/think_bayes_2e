@@ -1,4 +1,4 @@
-name: ThinkBayes2
+name: think-bayes-2e
 channels:
   - default
   - conda-forge
